@@ -11,7 +11,7 @@ I have been learning to code for 3 years. Recently I creating projects by myself
 * 🚀  I'm currently working on [DungeonFit](http://github.com/KLoCascio/DungeonFit)
 * 🧠  I'm learning React, Python, Django, and PostgreSQL
 * 🤝  I'm open to collaborating on Anything, I love a challenge
-* ⚡  I like roasting friends
+
 
 ### Skills
 
