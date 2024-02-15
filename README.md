@@ -4,7 +4,7 @@ Hi 👋 My name is Robert Castor
 Full-Stack Software Engineer
 ----------------------------
 
-I have been learning to code for 3 years. Recently I creating projects by myself and collaborating with others and adding the results to github.
+I have been learning to code for 3 years. Recently I have been creating projects by myself and collaborating with others and adding the results to github.
 
 * 🌍  I'm based in Kentucky
 * ✉️  You can contact me at [rcastor0000@gmail.com](mailto:rcastor0000@gmail.com)
